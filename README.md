@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inaciomdrs/MinicursoIntroducaoPythonUNIR/HEAD)
+
+
 # Introdução à programação com Python
 ## Semana da Computação UNIR - 2022
 
